@@ -1,2 +1,2 @@
 # Ecommerce
-Backend code of the Ecommerce website
+E-Commerce website Spring-Boot code 
